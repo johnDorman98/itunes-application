@@ -79,7 +79,3 @@ The Itunes Search Application is a web application that allows users to search f
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
